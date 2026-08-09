@@ -113,6 +113,6 @@ The Power BI dashboard provides a clear view of transaction activity, fraud tran
 
 📌 Data Analyst | Excel | Power BI
 
-🔗 GitHub: [Your GitHub Profile](github.com/komaldongare207)
+🔗 GitHub:(github.com/komaldongare207)
 
 
