@@ -70,6 +70,7 @@ Used the dashboard to identify important patterns and trends related to fraudule
 
 
 ### Dashboard Preview
+<a href="https://github.com/komaldongare207/Credit_Card_Fraud_Detection/blob/main/Credit_Card_Froud_Detection.png">Dashboard</a>
 
 ![Credit Card Fraud Detection Dashboard](<img width="1920" height="1080" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/088476ac-2270-49cb-9948-e702a8955156" />
 )
