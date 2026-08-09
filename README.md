@@ -1,32 +1,119 @@
-# Credit Card Fraud Detection
+# 💳 Credit Card Fraud Detection Dashboard
 
 ## 📌 Project Overview
 
-Credit Card Fraud Detection is a Machine Learning project designed to identify fraudulent credit card transactions.
+This project focuses on analyzing credit card transaction data to identify fraudulent transactions and understand fraud patterns.
 
-The project analyzes transaction data and detects patterns that can help distinguish between normal and fraudulent transactions.
+The data was analyzed using **Microsoft Excel** and visualized using **Microsoft Power BI** to create an interactive dashboard with key business insights.
+
+---
+
+## 🎯 Project Objective
+
+- Analyze credit card transaction data
+- Identify fraudulent and non-fraudulent transactions
+- Calculate the fraud rate
+- Analyze transaction amounts and fraud patterns
+- Create an interactive dashboard using Power BI
+- Present important insights through data visualization
+
+---
+
+## 🛠️ Tools & Technologies Used
+
+- Microsoft Excel
+- Microsoft Power BI
+
+---
+
+## 📂 Dataset Used
+
+**Dataset:** Credit Card Fraud Detection Dataset
+
+The dataset contains credit card transaction details used to analyze fraudulent transactions.
+
+🔗 **Dataset Source:**  
+[Click here to view/download the dataset](PASTE_DATASET_LINK_HERE)
+
+> Note: The dataset is not uploaded to this repository because of its large file size.
+
+---
+
+## 🔄 Project Process
+
+### 1. Data Collection
+Collected the credit card transaction dataset for analysis.
+
+### 2. Data Cleaning
+Used Microsoft Excel to check and prepare the data for analysis.
+
+### 3. Data Analysis
+Analyzed transaction data to understand:
+- Total transactions
+- Fraud transactions
+- Transaction amounts
+- Fraud percentage
+- Fraud patterns
+
+### 4. Data Visualization
+Imported the prepared data into Microsoft Power BI.
+
+### 5. Dashboard Creation
+Created an interactive Power BI dashboard using charts, cards, graphs, and filters.
+
+### 6. Insight Generation
+Used the dashboard to identify important patterns and trends related to fraudulent transactions.
+
+---
 
 ## 📊 Dashboard
 
+🔗 **Power BI Dashboard:**  
+[Click here to view the Dashboard](PASTE_POWER_BI_LINK_HERE)
+
+### Dashboard Preview
+
 ![Credit Card Fraud Detection Dashboard](Credit_Card_Froud_Detection.png)
 
-## 🎯 Objectives
+---
 
-- Detect fraudulent credit card transactions
-- Analyze transaction amounts
-- Identify fraud patterns by hour
-- Compare fraud and normal transactions
-- Visualize fraud-related insights using a dashboard
+## 📈 Project Insights
 
-## 🛠️ Technologies Used
+- Total Transactions: **285K**
+- Fraud Transactions: **492**
+- Fraud Rate: **0.17%**
+- Total Transaction Amount: **25.16M**
+- Fraud transactions represent a very small percentage of total transactions.
+- The dashboard helps identify transaction patterns and fraud-related trends.
+- Power BI visualization makes it easier to understand the data and identify important insights.
 
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Seaborn
-- Machine Learning
-- Data Visualization
+---
+
+## 🚀 Future Scope
+
+- Add more detailed fraud analysis
+- Include real-time transaction monitoring
+- Create automated fraud alerts
+- Analyze customer and transaction behavior in more detail
+- Improve the dashboard with additional interactive filters
+- Integrate advanced fraud detection techniques in the future
+
+---
+
+## ✅ Final Conclusion
+
+This project demonstrates how **Microsoft Excel and Power BI** can be used to analyze credit card transaction data and create meaningful visual insights.
+
+The Power BI dashboard provides a clear view of transaction activity, fraud transactions, fraud rate, and transaction patterns. This project helped in understanding how data analysis and visualization can support fraud monitoring and decision-making.
+
+---
+
+## 👤 Author
+
+**Your Name**
+
+📌 Data Analyst | Excel | Power BI
+
+🔗 GitHub: [Your GitHub Profile](PASTE_GITHUB_PROFILE_LINK_HERE)
 
 
