@@ -65,10 +65,6 @@ Used the dashboard to identify important patterns and trends related to fraudule
 ---
 
 ## 📊 Dashboard
-
-🔗 **Power BI Dashboard:**  
-
-
 ### Dashboard Preview
 <a href="https://github.com/komaldongare207/Credit_Card_Fraud_Detection/blob/main/Credit_Card_Froud_Detection.png">Dashboard</a>
 <img width="1437" height="806" alt="Credit_Card_Froud_Detection" src="https://github.com/user-attachments/assets/b9ef246b-76ee-4d04-ba78-bd35da29c12b" />
