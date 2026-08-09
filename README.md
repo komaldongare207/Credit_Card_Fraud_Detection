@@ -23,6 +23,7 @@ The data was analyzed using **Microsoft Excel** and visualized using **Microsoft
 
 - Microsoft Excel
 - Microsoft Power BI
+- 
 
 ---
 
@@ -31,9 +32,6 @@ The data was analyzed using **Microsoft Excel** and visualized using **Microsoft
 **Dataset:** Credit Card Fraud Detection Dataset
 
 The dataset contains credit card transaction details used to analyze fraudulent transactions.
-
-🔗 **Dataset Source:**  
-[Click here to view/download the dataset](PASTE_DATASET_LINK_HERE)
 
 > Note: The dataset is not uploaded to this repository because of its large file size.
 
@@ -69,11 +67,12 @@ Used the dashboard to identify important patterns and trends related to fraudule
 ## 📊 Dashboard
 
 🔗 **Power BI Dashboard:**  
-[Click here to view the Dashboard](PASTE_POWER_BI_LINK_HERE)
+
 
 ### Dashboard Preview
 
-![Credit Card Fraud Detection Dashboard](Credit_Card_Froud_Detection.png)
+![Credit Card Fraud Detection Dashboard](<img width="1920" height="1080" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/088476ac-2270-49cb-9948-e702a8955156" />
+)
 
 ---
 
@@ -110,10 +109,10 @@ The Power BI dashboard provides a clear view of transaction activity, fraud tran
 
 ## 👤 Author
 
-**Your Name**
+**Komal Dongare**
 
 📌 Data Analyst | Excel | Power BI
 
-🔗 GitHub: [Your GitHub Profile](PASTE_GITHUB_PROFILE_LINK_HERE)
+🔗 GitHub: [Your GitHub Profile](github.com/komaldongare207)
 
 
