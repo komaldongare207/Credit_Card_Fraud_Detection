@@ -98,7 +98,7 @@ Used the dashboard to identify important patterns and trends related to fraudule
 
 ---
 
-## ✅ Final Conclusion
+## ✅ Conclusion
 
 This project demonstrates how **Microsoft Excel and Power BI** can be used to analyze credit card transaction data and create meaningful visual insights.
 
@@ -112,6 +112,6 @@ The Power BI dashboard provides a clear view of transaction activity, fraud tran
 
 📌 Data Analyst | Excel | Power BI
 
-🔗 GitHub:github.com/komaldongare207
+🔗 GitHub : github.com/komaldongare207
 
 
